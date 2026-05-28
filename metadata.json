@@ -1,0 +1,8 @@
+{
+  "name": "Shopping Tracker",
+  "description": "A premium dashboard to tracking options and budgets while shopping online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
